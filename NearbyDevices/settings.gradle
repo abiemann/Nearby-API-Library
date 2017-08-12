@@ -1,0 +1,2 @@
+include ':app', ':eznearbylibrary'
+project(':eznearbylibrary').projectDir = new File('../eznearbylibrary')
